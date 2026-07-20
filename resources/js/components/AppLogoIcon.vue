@@ -1,0 +1,10 @@
+<template>
+    <img
+        src="/images/boncard-wallet.png"
+        alt="BonCard"
+        width="64"
+        height="64"
+        class="object-contain"
+        v-bind="$attrs"
+    />
+</template>
